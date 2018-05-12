@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32011'
     url: http://www.gutenberg.org/2009/agents/32011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26445#Songs-from-the-Southland
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
 identifiers:
